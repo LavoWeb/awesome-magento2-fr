@@ -14,7 +14,7 @@ Utile pour les flux Google Shopping, Marketplace et exports produits en généra
 
 + [Elasticsearch](https://www.wyomind.com/fr/magento2/elastic-search-magento.html) [payant]
 
-Remplace la recherche par quelque chose qu marche :) 
+Remplace la recherche par quelque chose qui marche :) 
 
 Remplace également les catégories (+ facettes) et optimise pas mal les performances.
 
@@ -26,3 +26,14 @@ Permets d'éditer la facture au format HTML, de poser des points de débug facil
 
 Installable via composer.
 
+## Email
+
++ [SMTP](https://github.com/mageplaza/magento-2-smtp) [gratuit]
+
+Permets de configurer les emails en SMTP, donc d'envoyer les emails via Amazon & co.
+
+On peut également voit l'historique des envois.
+
+## Langues
+
++ [FR](https://github.com/Imaginaerum/magento2-language-fr-fr) [gratuit]
